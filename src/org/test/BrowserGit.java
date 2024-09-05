@@ -6,6 +6,9 @@ public class BrowserGit {
 		
 	System.out.println("Success is importent");
 		
+	int a =10;
+	System.out.println(a);
+	
 	}
 	
 }
